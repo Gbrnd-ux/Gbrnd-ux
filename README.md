@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on: **My College Tasks – Flutter Task Manager**
 - 🌱 I’m currently learning: **Flutter, Dart, Security Automation**
 - 👯 I’m looking to collaborate on: **Open source Flutter & security tools**
-- 📫 How to reach me: **valorantakun1337@gmail.com**
+- 📫 How to reach me: **gibrandpradana@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code ☕**
 
 ---
