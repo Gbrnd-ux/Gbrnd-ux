@@ -93,6 +93,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gbrnd-ux/my-college-tasks/blob/main/assets/wave.svg" width="100%" />
+  <img src="[https://raw.githubusercontent.com/Gbrnd-ux/my-college-tasks/blob/main/assets/wave.svg](https://raw.githubusercontent.com/Gbrnd-ux/my-college-tasks/main/assets/wave.svg)" width="100%" />
 </div>
 Gbrnd-ux/my-college-tasks/blob/main/assets/wave.svg
