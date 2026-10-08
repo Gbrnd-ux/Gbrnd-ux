@@ -16,12 +16,6 @@
 
 <h2 align="center">ABOUT</h2>
 
-<p align="center">
-  Mahasiswa Teknik Informatika semester 6 di Universitas Duta Bangsa Surakarta.<br/>
-  Membangun antarmuka web dengan React dan Next.js, dengan fokus pada detail kecil<br/>
-  yang membuat sebuah produk terasa matang.
-</p>
-
 <div align="center">
   <img src="assets/terminal.svg" width="100%" alt="about.js" />
 </div>
