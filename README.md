@@ -9,7 +9,7 @@
   <a href="https://github.com/Gbrnd-ux?tab=followers">
     <img src="https://img.shields.io/github/followers/Gbrnd-ux?label=FOLLOWERS&style=for-the-badge&color=1a1a1a&labelColor=0d0d0d" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-1a1a1a?style=for-the-badge&labelColor=0d0d0d" alt="Open to internship" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20Work-1a1a1a?style=for-the-badge&labelColor=0d0d0d" alt="Open to Work" />
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 <h2 align="center">LEARNING ROADMAP</h2>
 
 <div align="center">
-  <img src="assets/roadmap.svg" width="100%" alt="Roadmap: web fundamentals, React, TypeScript and Next.js, internship, open source" />
+  <img src="assets/roadmap.svg" width="100%" alt="Roadmap: web fundamentals, React, TypeScript and Next.js, Work, open source" />
 </div>
 
 <br/>
