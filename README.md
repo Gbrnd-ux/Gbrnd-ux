@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Gibrand Pradana, Aspiring Front-End Web Developer" />
+  <img src="assets/banner.svg" width="100%" alt="Gibrand Putra Pradana, Frontend Developer" />
 </div>
 
 <br/>
@@ -9,11 +9,18 @@
   <a href="https://github.com/Gbrnd-ux?tab=followers">
     <img src="https://img.shields.io/github/followers/Gbrnd-ux?label=FOLLOWERS&style=for-the-badge&color=1a1a1a&labelColor=0d0d0d" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-1a1a1a?style=for-the-badge&labelColor=0d0d0d" alt="Open to internship" />
 </div>
 
 <br/>
 
 <h2 align="center">ABOUT</h2>
+
+<p align="center">
+  Mahasiswa Teknik Informatika semester 6 di Universitas Duta Bangsa Surakarta.<br/>
+  Membangun antarmuka web dengan React dan Next.js, dengan fokus pada detail kecil<br/>
+  yang membuat sebuah produk terasa matang.
+</p>
 
 <div align="center">
   <img src="assets/terminal.svg" width="100%" alt="about.js" />
@@ -24,7 +31,7 @@
 <h2 align="center">TECH STACK</h2>
 
 <div align="center">
-  <img src="assets/stack.svg" width="100%" alt="HTML, CSS, JavaScript, TypeScript, Flutter, Dart, Git, GitHub, Linux, Vercel" />
+  <img src="assets/stack.svg" width="100%" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, GitHub, Figma, Prisma, REST API, Vercel, Flutter, Dart, Linux" />
 </div>
 
 <br/>
@@ -32,7 +39,7 @@
 <h2 align="center">LEARNING ROADMAP</h2>
 
 <div align="center">
-  <img src="assets/roadmap.svg" width="100%" alt="Roadmap: HTML and CSS, JavaScript, Mophone project done, Flutter and Dart, open source" />
+  <img src="assets/roadmap.svg" width="100%" alt="Roadmap: web fundamentals, React, TypeScript and Next.js, internship, open source" />
 </div>
 
 <br/>
@@ -81,8 +88,9 @@
 <h2 align="center">2026 GOALS</h2>
 
 - [x] Publikasikan project front-end pertama: [Mophone E-Commerce](https://mophone.vercel.app)
-- [ ] Bangun website portofolio pribadi
-- [ ] Kuasai dasar HTML, CSS, dan JavaScript
+- [x] Bangun website portofolio pribadi dengan Next.js
+- [ ] Perdalam TypeScript dan Next.js
+- [ ] Dapatkan posisi magang Frontend Developer
 - [ ] Kontribusi ke project open source
 
 <br/>
