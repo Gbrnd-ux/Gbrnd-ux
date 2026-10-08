@@ -1,0 +1,37 @@
+<svg width="1000" height="192" viewBox="0 0 1000 192" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech stack">
+  <style>
+    .card{fill:#0d0d0d;stroke:#262626}
+    .t{font:500 12px 'JetBrains Mono',Consolas,'Courier New',monospace;letter-spacing:2px;fill:#7a7a7a}
+    .pill{fill:#141414;stroke:#333333}
+    .p{font:500 14px 'Inter','Segoe UI',Helvetica,Arial,sans-serif;fill:#e8e8e8;text-anchor:middle}
+    .c{font:400 13px 'Inter','Segoe UI',Helvetica,Arial,sans-serif;fill:#666666}
+  </style>
+
+  <g>
+    <rect class="card" x="0.5" y="0.5" width="319" height="191" rx="14"/>
+    <text class="t" x="24" y="38">FRONT-END</text>
+    <rect class="pill" x="24" y="58" width="64" height="32" rx="16"/><text class="p" x="56" y="79">HTML</text>
+    <rect class="pill" x="98" y="58" width="55" height="32" rx="16"/><text class="p" x="125.5" y="79">CSS</text>
+    <rect class="pill" x="163" y="58" width="118" height="32" rx="16"/><text class="p" x="222" y="79">JavaScript</text>
+    <rect class="pill" x="24" y="100" width="118" height="32" rx="16"/><text class="p" x="83" y="121">TypeScript</text>
+    <text class="c" x="24" y="165">Structure, style and logic</text>
+  </g>
+
+  <g transform="translate(340 0)">
+    <rect class="card" x="0.5" y="0.5" width="319" height="191" rx="14"/>
+    <text class="t" x="24" y="38">MOBILE</text>
+    <rect class="pill" x="24" y="58" width="91" height="32" rx="16"/><text class="p" x="69.5" y="79">Flutter</text>
+    <rect class="pill" x="125" y="58" width="64" height="32" rx="16"/><text class="p" x="157" y="79">Dart</text>
+    <text class="c" x="24" y="165">Cross-platform apps</text>
+  </g>
+
+  <g transform="translate(680 0)">
+    <rect class="card" x="0.5" y="0.5" width="319" height="191" rx="14"/>
+    <text class="t" x="24" y="38">TOOLS</text>
+    <rect class="pill" x="24" y="58" width="55" height="32" rx="16"/><text class="p" x="51.5" y="79">Git</text>
+    <rect class="pill" x="89" y="58" width="82" height="32" rx="16"/><text class="p" x="130" y="79">GitHub</text>
+    <rect class="pill" x="181" y="58" width="73" height="32" rx="16"/><text class="p" x="217.5" y="79">Linux</text>
+    <rect class="pill" x="24" y="100" width="82" height="32" rx="16"/><text class="p" x="65" y="121">Vercel</text>
+    <text class="c" x="24" y="165">Workflow and deployment</text>
+  </g>
+</svg>
