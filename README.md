@@ -79,6 +79,18 @@
 
 <br/>
 
+<div align="center">
+  <img src="assets/project-ai-chat.svg" width="100%" alt="AI Multimodal Chat, chat AI asinkron dengan generasi gambar, video, dan dokumen, dibuat dengan Next.js 15 dan TypeScript" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Gbrnd-ux/chat-app">
+    <img src="https://img.shields.io/badge/SOURCE%20CODE-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+  </a>
+</p>
+
+<br/>
+
 <h2 align="center">2026 GOALS</h2>
 
 - [x] Publikasikan project front-end pertama: [Mophone E-Commerce](https://mophone.vercel.app)
