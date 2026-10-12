@@ -5,7 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gbrnd-ux&label=VIEWS&color=1a1a1a&labelColor=0d0d0d&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/Gbrnd-ux?tab=followers">
     <img src="https://img.shields.io/github/followers/Gbrnd-ux?label=FOLLOWERS&style=for-the-badge&color=1a1a1a&labelColor=0d0d0d" alt="Followers" />
   </a>
@@ -84,6 +83,9 @@
 </div>
 
 <p align="center">
+  <a href="https://tanyai.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
   <a href="https://github.com/Gbrnd-ux/chat-app">
     <img src="https://img.shields.io/badge/SOURCE%20CODE-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
   </a>
