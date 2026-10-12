@@ -37,7 +37,7 @@
 
   <!-- teks -->
   <text x="70" y="72" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" letter-spacing="4" fill="#6b6b6b">// HELLO, WORLD</text>
-  <text x="70" y="136" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="60" font-weight="800" letter-spacing="2" fill="url(#name)">GIBRAND PRADANA</text>
+  <text x="70" y="136" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="60" font-weight="800" letter-spacing="2" fill="url(#name)">GIBRAND PUTRA</text>
   <text x="70" y="174" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="21" letter-spacing="1.5" fill="#a3a3a3">Aspiring Front-End Web Developer</text>
 
   <g clip-path="url(#typed)">
